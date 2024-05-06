@@ -1,0 +1,91 @@
+VJCWheels Data Loaded
+Reservations Data Loaded
+Cars Rented have been rented out
+CAR RENTAL REPORT FOR TODAY: 
+
+
+Customer: Mia Anderson
+Car Type: Sedan
+Time: 08:30 AM
+Vehicle Given: 2022, Ford Mustang, TYPE: Sedan, ID: 987651
+
+Customer: William Brown
+Car Type: SUV
+Time: 09:00 AM
+Vehicle Given: 2022, Hyundai Santa Fe, TYPE: SUV, ID: 876549
+
+Customer: Sophia Wilson
+Car Type: Truck
+Time: 10:15 AM
+Vehicle Given: 2022, GMC Sierra, TYPE: Truck, ID: 692147
+
+Customer: John Smith
+Car Type: SUV
+Time: 10:30 AM
+Vehicle Given: 2023, Toyota Highlander, TYPE: SUV, ID: 537824
+
+Customer: Liam Garcia
+Car Type: SUV
+Time: 11:00 AM
+Vehicle Given: 2022, Jeep Wrangler, TYPE: SUV, ID: 542367
+
+Customer: Michael Williams
+Car Type: Van
+Time: 11:45 AM
+Vehicle Given: 2023, Ford Transit, TYPE: Van, ID: 314295
+
+Customer: Daniel Martinez
+Car Type: Van
+Time: 12:15 PM
+Vehicle Given: 2022, Nissan NV200, TYPE: Van, ID: 724536
+
+Customer: Ava Davis
+Car Type: Sedan
+Time: 01:00 PM
+Vehicle Given: 2023, Tesla Model Y, TYPE: Sedan, ID: 315468
+
+Customer: Isabella Rodriguez
+Car Type: Sedan
+Time: 01:45 PM
+Vehicle Given: 2022, Toyota Camry, TYPE: Sedan, ID: 234567
+
+Customer: Emma Johnson
+Car Type: Sedan
+Time: 02:15 PM
+Vehicle Given: 2023, Honda Accord, TYPE: Sedan, ID: 876543
+
+Customer: Ethan Taylor
+Car Type: SUV
+Time: 02:45 PM
+Vehicle Given: 2023, Ford Explorer, TYPE: SUV, ID: 987653
+
+Customer: Avery Thomas
+Car Type: Truck
+Time: 03:00 PM
+Vehicle Given: 2023, Ford F-150, TYPE: Truck, ID: 876545
+
+Customer: Olivia Jones
+Car Type: Truck
+Time: 03:30 PM
+Vehicle Given: 2023, Ram 1500, TYPE: Truck, ID: 357911
+
+Customer: James Miller
+Car Type: Van
+Time: 04:45 PM
+Vehicle Given: 2022, Ford Transit Connect, TYPE: Van, ID: 875469
+
+Customer: Lebron James
+Car Type: Sedan
+Time: 05:00 PM
+Vehicle Given: 2022, BMW 5 Series, TYPE: Sedan, ID: 789012
+
+
+
+RETURNED CARS
+
+RETURNED CARS
+
+Returned: 2023 Ford Explorer SUV, ID: 987653 from Ethan Taylor
+
+Reservation Found: Lebron James, Time Rented: 05:00 PM, Car: 2022 BMW 5 Series Sedan, Vehicle ID: 789012
+

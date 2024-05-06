@@ -1,0 +1,15 @@
+Unable to process: 2018 Honda , Car Year must be 2020 or higher!
+
+ERROR: Invalid Vehicle Type-> 'Compact Car'
+
+ERROR: Unable to process due to invalid stoi argument for car year
+
+ERROR: Invalid Vehicle Type-> 'Electric Truck'
+
+Unable to process: 2019 Mitsubishi , Car Year must be 2020 or higher!
+
+ERROR: No reservation with the name 'The Fraud' was found!'
+
+ERROR: Vehicle ID: 9876543 was not found
+ERROR: No reservation with the name 'Gojo' was found!'
+

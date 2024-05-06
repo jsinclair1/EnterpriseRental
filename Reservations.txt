@@ -1,0 +1,15 @@
+Mia Anderson,Sedan,08:30 AM
+William Brown,SUV,09:00 AM
+Sophia Wilson,Truck,10:15 AM
+John Smith,SUV,10:30 AM
+Liam Garcia,SUV,11:00 AM
+Michael Williams,Van,11:45 AM
+Daniel Martinez,Van,12:15 PM
+Ava Davis,Sedan,01:00 PM
+Isabella Rodriguez,Sedan,01:45 PM
+Emma Johnson,Sedan,02:15 PM
+Ethan Taylor,SUV,02:45 PM
+Avery Thomas,Truck,03:00 PM
+Olivia Jones,Truck,03:30 PM
+James Miller,Van,04:45 PM
+Lebron James,Sedan,05:00 PM
